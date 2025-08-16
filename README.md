@@ -1,7 +1,7 @@
 <h1 align="center">HEY 👋, I'm Aryan Gadhwal</h1>
 <h3 align="center">⚡ I LOVE LEARNING NEW THINGS </h3>
 <H2>🌱Currently focusing on FULL STACK DEVLOPMENT....</h2>
-<h2>🔭 ALL THE PROJECTS ARE DEPLOYED 👽....</h2>
+<h2>🔭 Learning Through Hackathons And By Building Projects....</h2>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/aryan-gadhwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gadhwal-756990278" height="30" width="40" /></a>
