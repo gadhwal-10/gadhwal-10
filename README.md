@@ -1,4 +1,4 @@
-<img width="2041" height="553" alt="github-header-banner" src="https://github.com/user-attachments/assets/05e93966-99d1-41c2-90c1-09a94347c551" />
+<h1 align="center">Hi 👋, I'm Aryan Gadhwal</h1>
 <h3 align="center">⚡ I LOVE LEARNING NEW THINGS </h3>
 <H3>🌱Currently focusing on FULL STACK DEVLOPMENT....</h3>
 <h3>🔭 Learning Through Hackathons And By Building Projects....</h3>
