@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Gadhwal</h1>
-<h3 align="center">⚡ I LOVE LEARNING NEW THINGS </h3>
-<H3>🌱Currently focusing on FULL STACK DEVLOPMENT....</h3>
+<h2 align="center">⚡ I LOVE LEARNING NEW THINGS </h2>
+<H2>🌱Currently focusing on FULL STACK DEVLOPMENT....</h2>
 <h3>🔭 Learning Through Hackathons And By Building Projects....</h3>
 <h1 align="left">🌐 Connect with me:</h1>
 <p align="left">
