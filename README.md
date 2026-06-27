@@ -31,12 +31,6 @@
 </p>
 
 
-</div>
-<div align="center"> 
-  
-  ![snake gif](https://github.com/Harshal1803/Harshal1803/blob/output/github-snake-dark.svg)
-</div>
-
 # 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/aryan-gadhwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gadhwal-756990278" height="30" width="40" /></a>
