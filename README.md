@@ -19,17 +19,13 @@
 </br></br>
 
 <p align="center">
-
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadhwal-10&theme=github_dark"/>
-
 </p>
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadhwal-10&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
-
+</div>
 
 # 🌐 Connect with me:
 <p align="left">
